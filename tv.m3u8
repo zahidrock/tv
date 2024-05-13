@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF: -1 tvg-name="BOISAKHI TV" tvg-logo="http://toffe.top/images/boisakai.png" group-title="Entertainment", BOISAKHI TV
 https://livess.ncare.live/live-orgin/boishakhitv-org.stream/chunks.m3u8
-#EXTINF: -1 tvg-name="GREEN TV" tvg-logo="http://toffe.top/images/greentv.png" group-title="Entertainment", GREEN TV
-https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
-#EXTINF: -1 tvg-name="ZEE BANGLA CINAMA" tvg-logo="http://toffe.top/images/Zeebanglacinema.png" group-title="Movies", ZEE BANGLA CINAMA
-http://yesimes.oknirvana.club:8880/live/uncleREKADO/hMvjXFPHsF/49963.m3u8
-#EXTINF: -1 tvg-name="STAR MOVIES" tvg-logo="http://toffe.top/images/starmovies.png" group-title="Movies", STAR MOVIES
-http://172.17.50.112/live/antbd1003/index.m3u8
 #EXTINF: -1 tvg-name="EKATTOR TV" tvg-logo="http://toffe.top/images/ekattortv.png" group-title="News", EKATTOR TV
 https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
 #EXTINF: -1 tvg-name="JAMUNA TV" tvg-logo="http://172.16.29.242/assets/images/jamunatv.png" group-title="News", JAMUNA TV
@@ -21,23 +15,16 @@ https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
 https://dbc-news.mssarena71.workers.dev/stream/dbcnewstv/master.m3u8
 #EXTINF: -1 tvg-name="COLORS BANGLA" tvg-logo="http://toffe.top/images/colorsbn.png" group-title="Indian Bangla", COLORS BANGLA
 https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
-#EXTINF: -1 tvg-name="ZEE BANGLA HD" tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA HD
-http://yesimes.oknirvana.club:8880/live/uncleREKADO/hMvjXFPHsF/49963.m3u8
 #EXTINF: -1 tvg-name="STAR JALSHA" tvg-logo="http://toffe.top/images/starjalsha.png" group-title="Indian Bangla", STAR JALSHA HD
 https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 #EXTINF: -1 tvg-name="ZEE BANGLA" tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA
 http://tv.cloudcdn.me:80/live.ts?channelId=120&uid=6140&deviceMac=00:1A:79:C1:9A:8C
-#EXTINF: -1 tvg-name="STAR JALSHA" tvg-logo="http://toffe.top/images/starjalsha.png" group-title="Indian Bangla", STAR JALSHA
-https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 #EXTINF: -1 tvg-name="BBC EARTH" tvg-logo="http://toffe.top/images/bbcearth.png" group-title="Information", BBC EARTH
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF: -1 tvg-name="ANIMAL PLANET" tvg-logo="http://toffe.top/images/animalplanet.png" group-title="Information", ANIMAL PLANET
 https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
 #EXTINF: -1 tvg-name="DISCOVERY BANGLA" tvg-logo="http://toffe.top/images/discovery.png" group-title="Information", DISCOVERY BANGLA
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
-#EXTINF: -1 tvg-name="NAT GEO WILD" tvg-logo="http://toffe.top/images/natgeo.png" group-title="Information", NAT GEO WILD
-https://nat-geo-wild.mssarena71.workers.dev/stream/NatGeoWild/master.m3u8
 #EXTINF: -1 tvg-name="DISCOVERY SCIENCE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/af/Discovery_Science.png" group-title="Information", DISCOVERY SCIENCE
 https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
-#EXTINF: -1 tvg-name="NICK" tvg-logo="http://toffe.top/images/nick.jpg" group-title="Kids", NICK
-http://172.17.50.112/live/antbd1004/index.m3u8
+
